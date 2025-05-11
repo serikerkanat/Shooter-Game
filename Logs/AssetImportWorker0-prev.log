@@ -1,0 +1,422 @@
+Using pre-set license
+Built from '6000.0/staging' branch; Version is '6000.0.42f1 (feb9a7235030) revision 16693671'; Using compiler version '193933523'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22631) 64bit Core' Language: 'ru' Physical Memory: 16106 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\6000.0.42f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/Asus/Shooter Game
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+58642
+-job-worker-count
+5
+-background-job-worker-count
+8
+-gc-helper-count
+1
+Successfully changed project path to: C:/Users/Asus/Shooter Game
+C:/Users/Asus/Shooter Game
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [17840]  Target information:
+
+Player connection [17840]  * "[IP] 172.22.176.1 [Port] 0 [Flags] 2 [Guid] 183990042 [EditorId] 183990042 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-36GEHLA) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [17840]  * "[IP] 192.168.0.235 [Port] 0 [Flags] 2 [Guid] 183990042 [EditorId] 183990042 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-36GEHLA) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [17840] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [17840] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 5
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Library Redirect Path: Library/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Refreshing native plugins compatible for Editor in 4.74 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 6000.0.42f1 (feb9a7235030)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.0.42f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Asus/Shooter Game/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3050 Laptop GPU (ID=0x25a2)
+    Vendor:   NVIDIA
+    VRAM:     3964 MB
+    Driver:   32.0.15.6607
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.0.42f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.0.42f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.0.42f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56092
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.42f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.42f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.42f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Registered in 0.008764 seconds.
+- Loaded All Assemblies, in  0.448 seconds
+Native extension for Android target not found
+Android Extension - Scanning For ADB Devices 1011 ms
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.365 seconds
+Domain Reload Profiling: 1808ms
+	BeginReloadAssembly (143ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (43ms)
+	RebuildNativeTypeToScriptingClass (12ms)
+	initialDomainReloadingComplete (62ms)
+	LoadAllAssembliesAndSetupDomain (183ms)
+		LoadAssemblies (140ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (179ms)
+			TypeCache.Refresh (178ms)
+				TypeCache.ScanAssembly (161ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (1365ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1335ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (1101ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (50ms)
+			ProcessInitializeOnLoadAttributes (118ms)
+			ProcessInitializeOnLoadMethodAttributes (61ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+Duplicate assembly 'log4net.dll' with different versions detected, using 'Packages/com.unity.package-validation-suite/Lib/Editor/log4net.dll, AssemblyName=log4net, Version=2.0.8.0, Culture=neutral, PublicKeyToken=669e0ddf0bb1aa2a' and ignoring 'Packages/com.unity.collab-proxy/Lib/Editor/log4netPlastic.dll, AssemblyName=log4net, Version=1.2.15.0, Culture=neutral, PublicKeyToken=669e0ddf0bb1aa2a'.- Loaded All Assemblies, in  0.872 seconds
+Refreshing native plugins compatible for Editor in 2.26 ms, found 3 plugins.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.924 seconds
+Domain Reload Profiling: 1788ms
+	BeginReloadAssembly (187ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (5ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (38ms)
+	RebuildCommonClasses (47ms)
+	RebuildNativeTypeToScriptingClass (17ms)
+	initialDomainReloadingComplete (42ms)
+	LoadAllAssembliesAndSetupDomain (571ms)
+		LoadAssemblies (422ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (258ms)
+			TypeCache.Refresh (198ms)
+				TypeCache.ScanAssembly (177ms)
+			BuildScriptInfoCaches (45ms)
+			ResolveRequiredComponents (13ms)
+	FinalizeReload (924ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (713ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (16ms)
+			SetLoadedEditorAssemblies (5ms)
+			BeforeProcessingInitializeOnLoad (141ms)
+			ProcessInitializeOnLoadAttributes (402ms)
+			ProcessInitializeOnLoadMethodAttributes (138ms)
+			AfterProcessingInitializeOnLoad (9ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (8ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 1.82 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 200 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6238 unused Assets / (7.1 MB). Loaded Objects now: 6894.
+Memory consumption went from 162.9 MB to 155.8 MB.
+Total: 13.956800 ms (FindLiveObjects: 0.863900 ms CreateObjectMapping: 1.381200 ms MarkObjects: 5.991900 ms  DeleteObjects: 5.718500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1905810.568148 seconds.
+  path: Assets/Alstra Infinite/Platform Tiles - PolyPack/Prefabs/Block_TreeV1.prefab
+  artifactKey: Guid(0cbd10c33352e2a48932bdbeae60b478) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alstra Infinite/Platform Tiles - PolyPack/Prefabs/Block_TreeV1.prefab using Guid(0cbd10c33352e2a48932bdbeae60b478) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '85cd7a193c117f90eba189d0af5cef17') in 0.5890206 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 12
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/Alstra Infinite/Platform Tiles - PolyPack/Prefabs/Tile_Acc_RockWGrassV1.prefab
+  artifactKey: Guid(90e82e4a9b9809f47978b97c8a749572) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alstra Infinite/Platform Tiles - PolyPack/Prefabs/Tile_Acc_RockWGrassV1.prefab using Guid(90e82e4a9b9809f47978b97c8a749572) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9e83b439eebc063644b6c292c16642b8') in 0.0212422 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Alstra Infinite/Platform Tiles - PolyPack/Prefabs/Tile_Acc_PlanksV1.prefab
+  artifactKey: Guid(9270649ea4d2d9b448794d6b71b8c853) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alstra Infinite/Platform Tiles - PolyPack/Prefabs/Tile_Acc_PlanksV1.prefab using Guid(9270649ea4d2d9b448794d6b71b8c853) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4778a6a461fa4c0ccf422bd18f716b1a') in 0.0300083 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Alstra Infinite/Platform Tiles - PolyPack/Models/Tile_StoneV1.fbx
+  artifactKey: Guid(2baac3a9d5000804db647928fe1cd56b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alstra Infinite/Platform Tiles - PolyPack/Models/Tile_StoneV1.fbx using Guid(2baac3a9d5000804db647928fe1cd56b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '301066c404bedf78e75cbdd9d92d9843') in 0.0294912 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Alstra Infinite/Platform Tiles - PolyPack/Models/Block_WaterV1.fbx
+  artifactKey: Guid(ec6b68492e85f27449dea377bc52703f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alstra Infinite/Platform Tiles - PolyPack/Models/Block_WaterV1.fbx using Guid(ec6b68492e85f27449dea377bc52703f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '55c0093fa68c01d2b0f15e5559741c2a') in 0.0155947 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Alstra Infinite/Platform Tiles - PolyPack/Prefabs/Block_Acc_MineralV1.prefab
+  artifactKey: Guid(911cb22511b5a464e9d1ff552aea6a91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alstra Infinite/Platform Tiles - PolyPack/Prefabs/Block_Acc_MineralV1.prefab using Guid(911cb22511b5a464e9d1ff552aea6a91) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '191d47999d24f7d12aa9280f3525deec') in 0.0124438 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Alstra Infinite/Platform Tiles - PolyPack/Models/Block_StoneV1.fbx
+  artifactKey: Guid(1c9c37a03480acc4db73d9d645a42c76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alstra Infinite/Platform Tiles - PolyPack/Models/Block_StoneV1.fbx using Guid(1c9c37a03480acc4db73d9d645a42c76) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '96af6c6fc1a8eebd2fdd3760f0491843') in 0.014555 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Alstra Infinite/Platform Tiles - PolyPack/Prefabs/Tile_Acc_StonePlatesV1.prefab
+  artifactKey: Guid(88fd1f7a49f01de4c8a8984f2db6a128) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alstra Infinite/Platform Tiles - PolyPack/Prefabs/Tile_Acc_StonePlatesV1.prefab using Guid(88fd1f7a49f01de4c8a8984f2db6a128) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5dcbef75bc9f6ff7d05ed406a6d4c9be') in 0.0106045 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Duplicate assembly 'log4net.dll' with different versions detected, using 'Packages/com.unity.package-validation-suite/Lib/Editor/log4net.dll, AssemblyName=log4net, Version=2.0.8.0, Culture=neutral, PublicKeyToken=669e0ddf0bb1aa2a' and ignoring 'Packages/com.unity.collab-proxy/Lib/Editor/log4netPlastic.dll, AssemblyName=log4net, Version=1.2.15.0, Culture=neutral, PublicKeyToken=669e0ddf0bb1aa2a'.- Loaded All Assemblies, in  0.829 seconds
+Refreshing native plugins compatible for Editor in 1.42 ms, found 3 plugins.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.754 seconds
+Domain Reload Profiling: 1579ms
+	BeginReloadAssembly (265ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (22ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (65ms)
+	RebuildCommonClasses (37ms)
+	RebuildNativeTypeToScriptingClass (17ms)
+	initialDomainReloadingComplete (34ms)
+	LoadAllAssembliesAndSetupDomain (471ms)
+		LoadAssemblies (415ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (177ms)
+			TypeCache.Refresh (7ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (156ms)
+			ResolveRequiredComponents (11ms)
+	FinalizeReload (754ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (535ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (13ms)
+			SetLoadedEditorAssemblies (5ms)
+			BeforeProcessingInitializeOnLoad (114ms)
+			ProcessInitializeOnLoadAttributes (343ms)
+			ProcessInitializeOnLoadMethodAttributes (53ms)
+			AfterProcessingInitializeOnLoad (7ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (13ms)
+Refreshing native plugins compatible for Editor in 1.34 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 46 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6233 unused Assets / (7.1 MB). Loaded Objects now: 6946.
+Memory consumption went from 162.0 MB to 155.0 MB.
+Total: 9.056200 ms (FindLiveObjects: 0.606600 ms CreateObjectMapping: 0.553700 ms MarkObjects: 4.015100 ms  DeleteObjects: 3.879300 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 2079.842772 seconds.
+  path: Assets/LowPolyFPSLite/Prefabs/Box_01.prefab
+  artifactKey: Guid(ad36c3d044d312e44a986a07f2c7f0b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyFPSLite/Prefabs/Box_01.prefab using Guid(ad36c3d044d312e44a986a07f2c7f0b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7cd6a80ac0d12d53214d9154a4f053e3') in 0.5250482 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/LowPolyFPSLite/Prefabs/Jug_02.prefab
+  artifactKey: Guid(db39c55cba61f5f4886de5e25b22fac6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyFPSLite/Prefabs/Jug_02.prefab using Guid(db39c55cba61f5f4886de5e25b22fac6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'fa57cce4a25b3ad7df8b4f0bbd757a08') in 0.0122247 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/LowPolyFPSLite/Prefabs/Jug_01.prefab
+  artifactKey: Guid(5c6a1648d6f5d8b45997037cbb0ea5ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyFPSLite/Prefabs/Jug_01.prefab using Guid(5c6a1648d6f5d8b45997037cbb0ea5ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'bcbb50311aa54a9238ae2c2a77e02113') in 0.0103467 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 33.076270 seconds.
+  path: Assets/LowPolyFPSLite/Prefabs/Stairs_01.prefab
+  artifactKey: Guid(e059938ac4b575643a3345b530869d15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyFPSLite/Prefabs/Stairs_01.prefab using Guid(e059938ac4b575643a3345b530869d15) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9dc5ae9dad467a4a161820805ce32777') in 0.0198897 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.264909 seconds.
+  path: Assets/LowPolyFPSLite/Prefabs/Wall_01.prefab
+  artifactKey: Guid(af11b45e3d568f946be2cdb52ca3f1c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyFPSLite/Prefabs/Wall_01.prefab using Guid(af11b45e3d568f946be2cdb52ca3f1c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '620531a09c3342841532b860a6d52138') in 0.0138104 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/LowPolyFPSLite/Prefabs/WoodPlank_01.prefab
+  artifactKey: Guid(8ec4006999a806c4291e661db75cac17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyFPSLite/Prefabs/WoodPlank_01.prefab using Guid(8ec4006999a806c4291e661db75cac17) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ee4cfcc4872084af24a250643124923d') in 0.0128126 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/LowPolyFPSLite/Prefabs/WoodPlank_03.prefab
+  artifactKey: Guid(a5eb9200176bece4791f121120fced60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyFPSLite/Prefabs/WoodPlank_03.prefab using Guid(a5eb9200176bece4791f121120fced60) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'fcef39d088cd72ae046fc81a9f5d7ab0') in 0.0139693 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/LowPolyFPSLite/Prefabs/WoodPlank_02.prefab
+  artifactKey: Guid(3d4998389175ab44ea4d4fc6a1c102cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyFPSLite/Prefabs/WoodPlank_02.prefab using Guid(3d4998389175ab44ea4d4fc6a1c102cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1b08705a4ca01c5d62a354ffe682b4d5') in 0.0127547 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/LowPolyFPSLite/Prefabs/Wall_05.prefab
+  artifactKey: Guid(bb81a67ad1cf2984784527d333cae7d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyFPSLite/Prefabs/Wall_05.prefab using Guid(bb81a67ad1cf2984784527d333cae7d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f409c44e8daebe005ea5a7cfb544264d') in 0.0136541 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 29
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.697880 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(99c9720ab356a0642a771bea13969a05) Importer(2089858483,3d70f49cd1c2eb9ae422958d1c652c6b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(99c9720ab356a0642a771bea13969a05) Importer(2089858483,3d70f49cd1c2eb9ae422958d1c652c6b) (ScriptedImporter)Opening scene 'Assets/Scenes/SampleScene.unity additively'
+Loaded scene 'Assets/Scenes/SampleScene.unity'
+	Deserialize:            8.322 ms
+	Integration:            61.646 ms
+	Integration of assets:  0.014 ms
+	Thread Wait Time:       0.015 ms
+	Total Operation Time:   69.996 ms
+ -> (artifact id: 'c3ee9ca5a2b02a2e0b3a15aa625152f1') in 0.456554 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 47
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000066 seconds.
+  path: Assets/LowPolyFPSLite/Models/Wall_03.fbx
+  artifactKey: Guid(a54bb0fbf93b09440a77975415674e2a) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/LowPolyFPSLite/Models/Wall_03.fbx using Guid(a54bb0fbf93b09440a77975415674e2a) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'c743d9bd8d0c6db97c4c397fe87c4a3f') in 0.1255222 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000047 seconds.
+  path: Assets/Alstra Infinite/Platform Tiles - PolyPack/Models/Block_TreeV1.fbx
+  artifactKey: Guid(5d114db4f9024014784a5ee3f163faf1) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Alstra Infinite/Platform Tiles - PolyPack/Models/Block_TreeV1.fbx using Guid(5d114db4f9024014784a5ee3f163faf1) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '08cb19c1f9044605253e0f0a3fdea718') in 0.0344831 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 8
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Alstra Infinite/Platform Tiles - PolyPack/Prefabs/Tile_Acc_PlanksV1.prefab
+  artifactKey: Guid(9270649ea4d2d9b448794d6b71b8c853) Importer(2089858483,3d70f49cd1c2eb9ae422958d1c652c6b)
+Start importing Assets/Alstra Infinite/Platform Tiles - PolyPack/Prefabs/Tile_Acc_PlanksV1.prefab using Guid(9270649ea4d2d9b448794d6b71b8c853) Importer(2089858483,3d70f49cd1c2eb9ae422958d1c652c6b) (ScriptedImporter) -> (artifact id: 'd4507bdd3cca42afdddbbfb561d8356f') in 0.0098202 seconds
+Editor requested this worker to shutdown with reason: balancing worker count downwards
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0

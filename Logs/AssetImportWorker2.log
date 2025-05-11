@@ -1,0 +1,293 @@
+Using pre-set license
+Built from '6000.0/staging' branch; Version is '6000.0.42f1 (feb9a7235030) revision 16693671'; Using compiler version '193933523'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22631) 64bit Core' Language: 'ru' Physical Memory: 16106 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\6000.0.42f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker2
+-projectPath
+C:/Users/Asus/Shooter Game
+-logFile
+Logs/AssetImportWorker2.log
+-srvPort
+49993
+-job-worker-count
+5
+-background-job-worker-count
+8
+-gc-helper-count
+1
+Successfully changed project path to: C:/Users/Asus/Shooter Game
+C:/Users/Asus/Shooter Game
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [13296]  Target information:
+
+Player connection [13296]  * "[IP] 172.22.176.1 [Port] 0 [Flags] 2 [Guid] 1826568478 [EditorId] 1826568478 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-36GEHLA) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [13296]  * "[IP] 192.168.0.235 [Port] 0 [Flags] 2 [Guid] 1826568478 [EditorId] 1826568478 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-36GEHLA) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [13296] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [13296] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 5
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Library Redirect Path: Library/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Refreshing native plugins compatible for Editor in 2.50 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 6000.0.42f1 (feb9a7235030)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.0.42f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Asus/Shooter Game/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3050 Laptop GPU (ID=0x25a2)
+    Vendor:   NVIDIA
+    VRAM:     3964 MB
+    Driver:   32.0.15.6607
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.0.42f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.0.42f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.0.42f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56312
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.42f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.42f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.42f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Registered in 0.010398 seconds.
+- Loaded All Assemblies, in  0.487 seconds
+Native extension for Android target not found
+Android Extension - Scanning For ADB Devices 758 ms
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.125 seconds
+Domain Reload Profiling: 1607ms
+	BeginReloadAssembly (184ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (41ms)
+	RebuildNativeTypeToScriptingClass (12ms)
+	initialDomainReloadingComplete (60ms)
+	LoadAllAssembliesAndSetupDomain (186ms)
+		LoadAssemblies (182ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (181ms)
+			TypeCache.Refresh (179ms)
+				TypeCache.ScanAssembly (164ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (1125ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1088ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (854ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (52ms)
+			ProcessInitializeOnLoadAttributes (117ms)
+			ProcessInitializeOnLoadMethodAttributes (61ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+Duplicate assembly 'log4net.dll' with different versions detected, using 'Packages/com.unity.package-validation-suite/Lib/Editor/log4net.dll, AssemblyName=log4net, Version=2.0.8.0, Culture=neutral, PublicKeyToken=669e0ddf0bb1aa2a' and ignoring 'Packages/com.unity.collab-proxy/Lib/Editor/log4netPlastic.dll, AssemblyName=log4net, Version=1.2.15.0, Culture=neutral, PublicKeyToken=669e0ddf0bb1aa2a'.- Loaded All Assemblies, in  1.123 seconds
+Refreshing native plugins compatible for Editor in 1.59 ms, found 3 plugins.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.957 seconds
+Domain Reload Profiling: 2072ms
+	BeginReloadAssembly (192ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (8ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (34ms)
+	RebuildCommonClasses (51ms)
+	RebuildNativeTypeToScriptingClass (14ms)
+	initialDomainReloadingComplete (48ms)
+	LoadAllAssembliesAndSetupDomain (809ms)
+		LoadAssemblies (512ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (410ms)
+			TypeCache.Refresh (290ms)
+				TypeCache.ScanAssembly (255ms)
+			BuildScriptInfoCaches (90ms)
+			ResolveRequiredComponents (21ms)
+	FinalizeReload (957ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (695ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (17ms)
+			SetLoadedEditorAssemblies (6ms)
+			BeforeProcessingInitializeOnLoad (136ms)
+			ProcessInitializeOnLoadAttributes (418ms)
+			ProcessInitializeOnLoadMethodAttributes (109ms)
+			AfterProcessingInitializeOnLoad (8ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (7ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.02 seconds
+Refreshing native plugins compatible for Editor in 1.92 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 223 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6256 unused Assets / (7.0 MB). Loaded Objects now: 6939.
+Memory consumption went from 175.5 MB to 168.5 MB.
+Total: 16.127700 ms (FindLiveObjects: 1.783400 ms CreateObjectMapping: 0.810200 ms MarkObjects: 8.370700 ms  DeleteObjects: 5.161500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 2074617.891525 seconds.
+  path: Assets/Lowpoly Forest Pack/Prefabs/Summer Round Tree 3.prefab
+  artifactKey: Guid(32ec12a06766339478cabadc6a2f5e0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lowpoly Forest Pack/Prefabs/Summer Round Tree 3.prefab using Guid(32ec12a06766339478cabadc6a2f5e0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b9cf0fc0f5800edcb62abd25721a8b31') in 0.543812 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 233
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000064 seconds.
+  path: Assets/Lowpoly Forest Pack/Prefabs/Tree Stump 1.prefab
+  artifactKey: Guid(cc18a00aafafacb41802d61151bc1d3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lowpoly Forest Pack/Prefabs/Tree Stump 1.prefab using Guid(cc18a00aafafacb41802d61151bc1d3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9eef001e20691674a047c0dc0720a040') in 0.0241142 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 232
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Lowpoly Forest Pack/Prefabs/Summer Pine Tree 4.prefab
+  artifactKey: Guid(ee0cacbd802c4d442997aa798150596a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lowpoly Forest Pack/Prefabs/Summer Pine Tree 4.prefab using Guid(ee0cacbd802c4d442997aa798150596a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '975eaf39c61e7fba303a4e428a2779bd') in 0.0176923 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 232
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Lowpoly Forest Pack/Prefabs/Summer Shrub 1.prefab
+  artifactKey: Guid(a394573acba86a14c9cb5c6899cc24ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lowpoly Forest Pack/Prefabs/Summer Shrub 1.prefab using Guid(a394573acba86a14c9cb5c6899cc24ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0bc6c1655acad7c834488f31646a8d6f') in 0.0170752 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 232
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Lowpoly Forest Pack/Prefabs/Rock 3.prefab
+  artifactKey: Guid(696450b73bd3e904f8095e1ad9fadc5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lowpoly Forest Pack/Prefabs/Rock 3.prefab using Guid(696450b73bd3e904f8095e1ad9fadc5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6d0f280e297d8f9ac918c3f99454f7a5') in 0.0154126 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 232
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Lowpoly Forest Pack/Prefabs/Summer Round Tree 2.prefab
+  artifactKey: Guid(55c4d5a0ae55e604baa7dcc95aab27c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lowpoly Forest Pack/Prefabs/Summer Round Tree 2.prefab using Guid(55c4d5a0ae55e604baa7dcc95aab27c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'fd7eb39c94ba2c05f9366a00420b4d4d') in 0.0183895 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 232
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Lowpoly Forest Pack/Prefabs/Summer Cliff 2.prefab
+  artifactKey: Guid(26dc3c2657586174093d7c646c051e7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lowpoly Forest Pack/Prefabs/Summer Cliff 2.prefab using Guid(26dc3c2657586174093d7c646c051e7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '10e278fe3af2172cfd66a723914a8174') in 0.0151289 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 232
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Lowpoly Forest Pack/Prefabs/Walk Through Rock.prefab
+  artifactKey: Guid(650da1fc2cb1d67448f49d099eb2b17d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lowpoly Forest Pack/Prefabs/Walk Through Rock.prefab using Guid(650da1fc2cb1d67448f49d099eb2b17d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '51041a4c8c698206f564b3d4231df593') in 0.0161769 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 232
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Lowpoly Forest Pack/Prefabs/Summer Low Cliff 1.prefab
+  artifactKey: Guid(8579f379a3b29d74a9c0192a6a5ee043) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lowpoly Forest Pack/Prefabs/Summer Low Cliff 1.prefab using Guid(8579f379a3b29d74a9c0192a6a5ee043) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '29ef63e2dfe77c8a5375f3b2b17aea61') in 0.014558 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 232
+
+========================================================================
+Received Import Request.
+  Time since last request: 138.878192 seconds.
+  path: Assets/Alstra Infinite/Platform Tiles - PolyPack/Prefabs/Tile_Acc_PlanksV1.prefab
+  artifactKey: Guid(9270649ea4d2d9b448794d6b71b8c853) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alstra Infinite/Platform Tiles - PolyPack/Prefabs/Tile_Acc_PlanksV1.prefab using Guid(9270649ea4d2d9b448794d6b71b8c853) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '70a13726992808ae96e454e46bac64b3') in 0.019393 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Alstra Infinite/Platform Tiles - PolyPack/Prefabs/Tile_WaterV1.prefab
+  artifactKey: Guid(4707231c0cbf9614da99cd2e05c0c31a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alstra Infinite/Platform Tiles - PolyPack/Prefabs/Tile_WaterV1.prefab using Guid(4707231c0cbf9614da99cd2e05c0c31a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7ec76b286266634eae51bf6cfc3c2ceb') in 0.0180555 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/Alstra Infinite/Platform Tiles - PolyPack/Prefabs/Tile_GrassV1.prefab
+  artifactKey: Guid(154703c8827a19241a289d4cd734d234) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alstra Infinite/Platform Tiles - PolyPack/Prefabs/Tile_GrassV1.prefab using Guid(154703c8827a19241a289d4cd734d234) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9e024d0d514f7198d72994f781fc0412') in 0.0116354 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
